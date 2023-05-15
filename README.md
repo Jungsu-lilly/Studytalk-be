@@ -1,13 +1,15 @@
 ## 여럿이 Server
+
 #### 여럿이 스터디 서버 리포지토리입니다.
 <br>
 <details>
 <summary>기능 정의서</summary>
 <div markdown="1">       
 
-![여럿이 기능 정의서 - Google Docs-1](https://user-images.githubusercontent.com/56336436/214903763-dcd18643-7a8e-4e5a-b5a6-59addbbc8c49.png)
-![여럿이 기능 정의서 - Google Docs-2](https://user-images.githubusercontent.com/56336436/214903584-9333c3d2-6e46-438c-a505-59ef929c6db7.png)
-![여럿이 기능 정의서 - Google Docs-3](https://user-images.githubusercontent.com/56336436/214903594-8a7cdb71-babb-4218-9511-9f125a613d5f.png)
+<img width="1007" alt="스크린샷 2023-05-16 오전 2 41 14" src="https://github.com/Jungsu-lilly/yeoruti-study/assets/56336436/76f99c04-4079-497b-b4c2-e2d8288a0b30">
+<img width="1007" alt="스크린샷 2023-05-16 오전 2 42 06" src="https://github.com/Jungsu-lilly/yeoruti-study/assets/56336436/8906c7c9-cf05-4505-af59-c4d3f03def48">
+<img width="1007" alt="스크린샷 2023-05-16 오전 2 42 21" src="https://github.com/Jungsu-lilly/yeoruti-study/assets/56336436/ef69cd8d-d5a1-4e7d-81a2-7633de7b68f8">
+
 
 </div>
 </details>
