@@ -19,6 +19,13 @@
 - 현재 버전 : V2
 - 지속적으로 업데이트 할 예정입니다. <br>
 https://documenter.getpostman.com/view/16728792/2s93JnURtX
+<br>
+
+## 도커허브 URL
+도커 이미지를 아래 링크에서 다운받을 수 있습니다. <br>
+https://hub.docker.com/repository/docker/matt1235/yeoruti-server/general
+
+<br><br>
 
 ## ERD
 ![ERD_V2](https://user-images.githubusercontent.com/56336436/214897140-5edb3b74-0396-48f5-be92-80ee3ea16bdc.png)
